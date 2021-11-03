@@ -4,7 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:diskit/ts.git",
   "author": "diskit <diskit.1980@gmail.com>",
-  "license": "MIT",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^27.0.2",
